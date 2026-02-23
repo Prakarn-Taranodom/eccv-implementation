@@ -1,6 +1,19 @@
 # ECCV: Enhanced Clustering using Conditional Volatility
 
-This repository contains the source code, data, and supporting materials for the research framework **ECCV (Enhanced Clustering using Conditional Volatility)** for clustering time-series data, including both benchmark and real-world Thai stock market datasets.
+## 📌 Original Thesis Implementation
+
+This repository contains the **original implementation** developed for the thesis research on **ECCV (Enhanced Clustering using Conditional Volatility)**. It demonstrates the complete methodology and algorithms used in the research.
+
+**Important Notes:**
+- Data paths, file access, and environment configurations may vary depending on your setup
+- This repository is provided to illustrate the algorithms and methodology of the ECCV framework
+- You may need to adapt code and file paths to work with your own data sources and environment
+
+---
+
+## 📄 Framework Overview
+
+This repository contains the source code, datasets, and supporting materials for the research framework **ECCV (Enhanced Clustering using Conditional Volatility)** for clustering time-series data, including both benchmark datasets and real-world Thai stock market data.
 
 ---
 
@@ -84,8 +97,11 @@ This project is organized into two main parts:
 
 ---
 
-## 📎 Citation & Appendix Link
+## 📎 Citation & Repository
 
-This GitHub repository is cited in Appendix A of the thesis.  
-📎 **Appendix Link**: [https://github.com/Prakarn-Taranodom/ECCV-TimeSeries-Clustering](https://github.com/Prakarn-Taranodom/ECCV-TimeSeries-Clustering)
+This GitHub repository is cited in the thesis appendix.
+
+**Repository URL**: [https://github.com/Prakarn-Taranodom/eccv-implementation](https://github.com/Prakarn-Taranodom/eccv-implementation)
+
+For the research framework details and methodology, please refer to the thesis documentation and the notebooks in this repository.
 
