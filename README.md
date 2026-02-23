@@ -80,6 +80,23 @@ This project is organized into two main parts:
 
 ## 📦 How to Use
 
+### ⚠️ Important: Large Notebook Files
+
+Some Jupyter notebooks contain large outputs and visualizations that exceed GitHub's file preview limit:
+- `A_Benchmark_study_ARIMA_GARCH.ipynb` (38.5 MB)
+- `A_Benchmark_study_Clustering.ipynb` (21.7 MB)
+- `Real_world_Thai_stock_data.ipynb` (10.8 MB)
+
+**To view these files:**
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/Prakarn-Taranodom/eccv-implementation.git
+   ```
+2. **Download as ZIP** from GitHub and extract locally
+3. **Use nbviewer**: Paste the GitHub file URL at https://nbviewer.org/
+
+### Setup Instructions
+
 1. **Install environment**:
    - Use Jupyter or Google Colab
    - (Optional) Set up virtual environment with:
